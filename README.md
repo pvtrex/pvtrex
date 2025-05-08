@@ -1,9 +1,11 @@
+<h2 align="center" class="heading-element" dir="auto"> I am Rex - a Freelancer</h2>
+<br>
 <p align="center">
   <img src="https://www.creative-tim.com/blog/content/images/size/w1920/2021/10/Github-profile-1.jpg"/>
 </p>
 
 <br>
-<h2 align="center" class="heading-element" dir="auto">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" class="heading-element" dir="auto">⚒️ Learning-Frameworks-Tools ⚒️</h2>
 <p align="center">
 <img src="https://camo.githubusercontent.com/a389910b905e111ee6fdbd94a9dadd4a49f6a48fdb40fa562174b3f91313f658/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c7461696c77696e642c6a6176617363726970742c6769746875622c6769742c6669676d612c7864" data-canonical-src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,github,git,figma,xd" style="max-width: 100%;">
 </p>
