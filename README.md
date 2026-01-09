@@ -7,7 +7,7 @@
 <br>
 <h2 align="center" class="heading-element" dir="auto">⚒️ Learning-Frameworks-Tools ⚒️</h2>
 <p align="center">
-<img herf="https://github.com/pvtrex/" src="https://i0.wp.com/365webresources.com/wp-content/uploads/2022/03/54-Developer-Skills-Icons-SVG.png?ssl=1"  style="max-width: 100%;">
+<img herf="https://github.com/pvtrex/" src="https://res.cloudinary.com/dbanlmhvd/image/upload/v1767957739/54-Developer-Skills-Icons-SVG_jsdsun.webp"  style="max-width: 100%;">
 </p>
 <p align="center">
 <img 
