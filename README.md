@@ -1,4 +1,4 @@
-<h2 align="center" class="heading-element" dir="auto"> I am Rex - a Freelancer</h2>
+<h2 align="center" class="heading-element" dir="auto"> I am Prince - a Freelancer</h2>
 <br>
 <p herf="https://github.com/pvtrex/" align="center">
   <img src="https://www.creative-tim.com/blog/content/images/size/w1920/2021/10/Github-profile-1.jpg"/>
